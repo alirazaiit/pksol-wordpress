@@ -1,0 +1,65 @@
+
+---Downloaded files---
+The import files for: Demo Import loptus were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/pksol
+Data file = E:\xampp\htdocs\pksol/wp-content/uploads/2021/02/demo-content-import-file_2021-02-15__11-20-11.xml
+Widget file = E:\xampp\htdocs\pksol/wp-content/uploads/2021/02/demo-widgets-import-file_2021-02-15__11-20-11.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Tag Cloud - No Title - Imported
+
+Aside Widget : 
+
+Text - No Title - Imported
+
+Service Sidebar : 
+
+Recent Posts - No Title - Imported
+
+Footer One Widget : 
+
+Text - No Title - Imported
+
+Footer Two Widget : 
+
+Text - No Title - Imported
+
+Footer Three Widget : 
+
+Text - No Title - Imported
+
+Footer Form : 
+
+Text - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+
